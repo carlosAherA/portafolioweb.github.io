@@ -1,6 +1,7 @@
 import React  from 'react'
-import Navigation from '../components/navigation'
-import Homepage from '../components/homepage'
+import Navigation from '../components/navigation';
+import Homepage from '../components/homepage';
+
 
 
 
